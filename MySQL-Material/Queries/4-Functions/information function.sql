@@ -1,11 +1,11 @@
 
 -- CHARSET() - Return the character set of the argument
 
-	SELECT CHARSET('SQLAuthority');
+	SELECT CHARSET('Hello World');
 
 -- COLLATION() - Return the collation of the string argument
 
-	SELECT COLLATION('SQLAuthority');
+	SELECT COLLATION('Hello World');
 
 -- CONNECTION_ID() - Return the connection ID (thread ID) for the connection
 
